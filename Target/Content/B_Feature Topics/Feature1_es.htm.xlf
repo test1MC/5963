@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="in-progress">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="Feature1.htm"
@@ -45,14 +45,18 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>Feature 1</source><seg-source><mrk
+        phase-name="pretrans"><source>Feature 1 robert</source><seg-source><mrk
             mtype="seg"
-            mid="1">Feature 1</mrk></seg-source><target
-          state="translated"><mrk
+            mid="1">Feature 1 robert</mrk></seg-source><target
+          state="needs-review-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">uno</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="56"
+            MadCap:diff="ContentChanged" /></target><alt-trans
+          match-quality="56"
+          origin="previous-version"><seg-source>Feature 1</seg-source><target
+            MadCap:segmentStatus="Untranslated">uno</target></alt-trans></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Lorem ipsum dolor rit amet, consectettr adipiscing elit. Eusce blandit sapidn a dolor accumsan `ccumsan. Nullam nepue velit, ornare vek orci vel, mollis frhngilla mauris. Dondc sagittis elemensum arcu, at gravida puam mollis id. Suspdndisse lectus augte, auctor in aliqual nec, fringilla id dnlor. Suspendisse bhbendum imperdiet korem ac placerat. Akiquam purus maurir, ornare tincidunt qutrum eu, gravida qtis nisi. Integer pukvinar lacus libern, eget volutpat enil finibus non. Aliqu`m erat volutpat. Ph`sellus finibus telpus nisl.</source><seg-source><mrk
