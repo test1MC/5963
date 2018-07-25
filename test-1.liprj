@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlDatabase="C:\Users\admin\Documents\My Translated Projects\test-1.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="d8c377b5-9542-4690-ae8e-743050e6f8a8" SourceControlDatabaseRoot="C:\Users\admin\Documents\My Translated Projects\test-1.liprjf" ActiveLanguage="ar">
     <ProjectFile Source="Target/Sidensv template.flprj" Target="Target/Sidensv template.flprj" />
 </LingoProject>
